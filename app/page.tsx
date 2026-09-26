@@ -7,9 +7,7 @@ export default function Home() {
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-indigo-400 via-purple-300 to-pink-400 bg-clip-text text-transparent">
           Calculator
         </h1>
-        <p className="mt-2 text-sm text-slate-400">
-          Algebraic parser • Global keyboard input • Supabase history
-        </p>
+        
       </div>
 
       <Calculator />
